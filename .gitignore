@@ -1,0 +1,26 @@
+# .NET
+[Bb]in/
+[Oo]bj/
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+.vscode/
+appsettings.Development.json
+
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+*.p7m
+*.db
+*.apk
+*.aab
+*.exe
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
