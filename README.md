@@ -90,15 +90,9 @@ Backend được viết bằng **ASP.NET Core Web API**.
 
 Khi khởi tạo database lần đầu, hệ thống sẽ tạo sẵn các tài khoản sau:
 
-| Vai trò | Tên đăng nhập | Mật khẩu |
-| :--- | :--- | :--- |
+
 | **Admin** | `admin` | `Admin@123` |
-| **User** | `user1` | `User@123` |
+| **User** | `user` | `User@123` |
 
 ---
 
-## ⚠️ Khắc Phục Lỗi Thường Gặp
-
-*   **Lỗi 502/Connection Refused:** Kiểm tra xem Backend đã chạy chưa (`dotnet run`). Nếu chạy máy ảo Android, đảm bảo dùng đúng IP `10.0.2.2`.
-*   **Lỗi Database:** Đảm bảo MySQL service đang chạy và chuỗi kết nối trong `appsettings.json` là chính xác.
-*   **Lỗi Flutter Build:** Thử chạy `flutter clean` sau đó `flutter pub get` và build lại.
