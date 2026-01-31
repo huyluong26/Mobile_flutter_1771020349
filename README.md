@@ -1,16 +1,3 @@
-# PicklePro - Hệ Thống Quản Lý & Đặt Sân Pickleball
-
-Dự án ứng dụng di động và backend quản lý đặt sân, tổ chức giải đấu và ví điện tử cho bộ môn Pickleball.
-
-## 📌 Thông Tin Dự Án
-- **Tên dự án:** PicklePro
-- **Phiên bản:** 1.0.0
-- **Thành viên thực hiện:**
-  - **Họ tên:** Nguyễn Ngọc Hiệp
-  - **MSSV:** 1771020254
-
----
-
 ## 🚀 Tính Năng Nổi Bật
 
 ### 📱 Dành cho Người dùng (Mobile App)
